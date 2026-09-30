@@ -1,0 +1,6 @@
+{
+  "name": "The Neotia University Faculty Recruitment Portal",
+  "description": "Official faculty recruitment and academic dossier submission portal for The Neotia University.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
